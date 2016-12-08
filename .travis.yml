@@ -51,5 +51,6 @@ notifications:
     recipients:
       - keshav.kapil@in.ibm.com
       - keshav451@gmail.com
+      - vidya.jothiraman@in.ibm.com
     on_success: always #[always|never|change] # default: change
     on_failure: always #[always|never|change] # default: always
